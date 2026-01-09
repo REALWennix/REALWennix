@@ -1,0 +1,2 @@
+﻿  Window.cpp
+D:\Users\Martin Rosič\source\repos\DirectXGame\Window.cpp(107): warning C4715: Window::release: ne všechny cesty k ovládacím prvkům vrací hodnotu
